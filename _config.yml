@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Self-defense and Safety Instruction for Women. Our mission is to help women safeguard themselves against crime and assault, so they may enjoy long, fulfilled, and healthy lives.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.womenmakesomenoise.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @wmsnSelfDefense
+twitter_username: wmsnSelfDefense
 github_username:  jasonmccomb
 
 # Build settings
