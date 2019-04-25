@@ -29,7 +29,6 @@ plugins:
   - jekyll-feed
   - jekyll-admin
   - jekyll-seo-tag
-  - Jekyll-sitemap
   - jekyll-redirect-from
 
 # Exclude from processing.
