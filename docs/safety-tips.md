@@ -1,6 +1,14 @@
-Safety Tips:
+---
+layout: page
+Title: Safety Tips
+permalink: /safety-tips/
 
-Mentally prepare yourself. 
+---
+
+
+# Safety Tips:
+
+Mentally prepare yourself.
 Have a plan.
 Follow your intuition.
 Be Aware of your surroundings.
@@ -9,4 +17,4 @@ Be car smart.
 Recognize dangerous situations.
 Know your strengths.
 Know his weaknesses.
-Know You have the right to ‘FIGHT’.
+Know You have the right to ï¿½FIGHTï¿½.
