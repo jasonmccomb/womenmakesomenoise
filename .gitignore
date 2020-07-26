@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+certs/public/id_rsa.pub
+certs/private/id_rsa
+assets/css/pinegrow.json
