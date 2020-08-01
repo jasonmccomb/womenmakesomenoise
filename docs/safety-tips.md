@@ -1,4 +1,5 @@
 ---
+
 layout: page
 Title: Safety Tips
 permalink: /safety-tips/
@@ -17,4 +18,4 @@ Be car smart.
 Recognize dangerous situations.
 Know your strengths.
 Know his weaknesses.
-Know You have the right to �FIGHT�.
+Know You have the right to FIGHT.
